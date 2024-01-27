@@ -4,7 +4,7 @@ I am currently pursuing B.tech in Computer Science Engineering from KIIT, Bhuban
 Programming languages that i have managed to master are being Python and C/C++.
 I am interested in Data Structure and algorithm and i have learned DBMS using Mysql.
 Looking forward to my future goals are to master the front-end programming languages being HTML,CSS & JS.
--->Hope I didn't bore you talking about myself<--
+Hope I didn't bore you talking about myself...
 >--Happy Coding--<
 
 <!---
